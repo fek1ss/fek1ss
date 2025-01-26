@@ -42,7 +42,7 @@ I am a frontend developer with experience in HTML, CSS, JavaScript, and React. C
 - Backend development (Node.js, Express)
 
 ## 💼 My Projects  
-**[Anime search app](https://anime-search-seven .vercel.app/)**: An application for finding anime using an external API.
+**[Anime search app](https://anime-search-seven.vercel.app/)**: An application for finding anime using an external API.
 
 ## 📫 How to Contact Me  
 - **Email**: [damirfrontend.dev@gmail.com](mailto:damirfrontend.dev@gmail.com)
