@@ -26,7 +26,7 @@
 
 -------------------------
 
-# Hello everyone 👋  
+# Hi there 👋  
 I am a frontend developer with experience in HTML, CSS, JavaScript, and React. Currently, I am learning and developing my professional skills, and I am looking for new projects to improve my expertise.
 
 ## 🛠 My Skills  
