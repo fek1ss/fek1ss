@@ -1,4 +1,4 @@
-## Всем привет👋
+# Всем привет👋
 
 
 Я — фронтенд-разработчик с опытом работы в **HTML**, **CSS**, **JavaScript**, и **React**. В настоящее время учусь и развиваюсь в своей профессиональной области, и ищу новые проекты, чтобы улучшать свои навыки.
@@ -23,6 +23,33 @@
 - Telegram: [fe_kis](https://t.me/fe_kis)
 
 🔭 Могу помочь с фронтенд-разработкой, созданием адаптивных интерфейсов и улучшением пользовательского опыта. Всегда открыт к новым возможностям и вызовам!
+
+-------------------------
+
+# Hello everyone 👋  
+I am a frontend developer with experience in HTML, CSS, JavaScript, and React. Currently, I am learning and developing my professional skills, and I am looking for new projects to improve my expertise.
+
+## 🛠 My Skills  
+- **Frontend**: HTML, CSS, JavaScript, React  
+- **Tools**: Git, GitHub, VSCode, Webpack  
+- **Базы данных**: Firestore  
+- **API**: Working with external APIs, RESTful services  
+- **Design**: Responsive design  
+
+## 🌱 What I'm Learning  
+- Working with cloud services for data storage (e.g., Firebase)  
+- Advanced React features and state management (Redux, Context API)  
+- Backend development (Node.js, Express)
+
+## 💼 My Projects  
+- You can check out my projects [here](https://www.example.com) or in the repository /portfolio-damir  
+
+## 📫 How to Contact Me  
+- **Email**: damirfrontend.dev@gmail.com  
+- **Telegram**: fe_kis  
+
+## 🔭 I can help with frontend development, creating responsive interfaces, and improving user experience. Always open to new opportunities and challenges!  
+
 
 
 
