@@ -32,7 +32,7 @@ I am a frontend developer with experience in HTML, CSS, JavaScript, and React. C
 ## 🛠 My Skills  
 - **Frontend**: HTML, CSS, JavaScript, React  
 - **Tools**: Git, GitHub, VSCode, Webpack  
-- **Базы данных**: Firestore  
+- **Databases**: Firestore  
 - **API**: Working with external APIs, RESTful services  
 - **Design**: Responsive design  
 
