@@ -16,7 +16,7 @@
 - Разработка бэкенда (Node.js, Express)
 
 ## 💼 Мои проекты
-- С моими проектами можете ознакомиться [тут]([https://www.example.com](https://portfolio-damir.vercel.app/) или в репозитории /portfolio-damir
+- С моими проектами можете ознакомиться [тут](https://portfolio-damir.vercel.app/) или в репозитории /portfolio-damir
 
 ## 📫 Как со мной связаться
 - Email: [damirfrontend.dev@gmail.com](mailto:damirfrontend.dev@gmail.com)
