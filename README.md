@@ -16,7 +16,7 @@
 - Разработка бэкенда (Node.js, Express)
 
 ## 💼 Мои проекты
-- С моими проектами можете ознакомиться [тут](https://portfolio-damir.vercel.app/) или в репозитории /portfolio-damir
+ **[Anime Search Application](https://anime-search-seven.vercel.app/)**: Приложение для поиска аниме с использованием внешнего API.
 
 ## 📫 Как со мной связаться
 - Email: [damirfrontend.dev@gmail.com](mailto:damirfrontend.dev@gmail.com)
