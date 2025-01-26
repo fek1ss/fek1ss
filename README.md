@@ -42,11 +42,11 @@ I am a frontend developer with experience in HTML, CSS, JavaScript, and React. C
 - Backend development (Node.js, Express)
 
 ## 💼 My Projects  
-- You can check out my projects [here](https://www.example.com) or in the repository /portfolio-damir  
+- You can check out my projects [here](https://portfolio-damir.vercel.app/) or in the repository /portfolio-damir  
 
 ## 📫 How to Contact Me  
-- **Email**: damirfrontend.dev@gmail.com  
-- **Telegram**: fe_kis  
+- **Email**: [damirfrontend.dev@gmail.com](mailto:damirfrontend.dev@gmail.com)
+- **Telegram**: [fe_kis](https://t.me/fe_kis) 
 
 ## 🔭 I can help with frontend development, creating responsive interfaces, and improving user experience. Always open to new opportunities and challenges!  
 
