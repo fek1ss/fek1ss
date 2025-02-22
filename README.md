@@ -13,7 +13,7 @@
 ## 🌱 Что я изучаю
 - Обучение использованию облачных сервисов для хранения данных (например, Firebase)
 - Расширенные возможности React и состояния (Redux, Context API)
-- Разработка бэкенда (Node.js, Express)
+- Разработка бэкенда (Python, Flask)
 
 ## 💼 Мои проекты
  **[Anime Search Application](https://anime-search-seven.vercel.app/)**: Приложение для поиска аниме с использованием внешнего API.
@@ -39,7 +39,7 @@ I am a frontend developer with experience in HTML, CSS, JavaScript, and React. C
 ## 🌱 What I'm Learning  
 - Working with cloud services for data storage (e.g., Firebase)  
 - Advanced React features and state management (Redux, Context API)  
-- Backend development (Node.js, Express)
+- Backend development (Python, Flask)
 
 ## 💼 My Projects  
 **[Anime search app](https://anime-search-seven.vercel.app/)**: An application for finding anime using an external API.
