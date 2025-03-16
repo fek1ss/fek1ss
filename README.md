@@ -27,7 +27,7 @@
 🔭 Могу помочь с фронтенд-разработкой, созданием адаптивных интерфейсов и улучшением пользовательского опыта. Всегда открыт к новым возможностям и вызовам!
 
 -------------------------
- Hi, I'm Damir! 
+#👋 Hi, I'm Damir! 
 
 I am a frontend developer who creates responsive interfaces and works with React.  
 I strive to improve the user experience and constantly learn new technologies.
