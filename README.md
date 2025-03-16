@@ -1,7 +1,9 @@
-# Всем привет👋
+# 👋 Привет, я Дамир! 
 
+Я frontend-разработчик, создающий адаптивные интерфейсы и работающий с React.  
+Стремлюсь улучшать пользовательский опыт и постоянно учусь новым технологиям.  
 
-Я — фронтенд-разработчик с опытом работы в **HTML**, **CSS**, **JavaScript**, и **React**. В настоящее время учусь и развиваюсь в своей профессиональной области, и ищу новые проекты, чтобы улучшать свои навыки.
+🚀 Открыт к новым возможностям!  
 
 ## 🛠 Мои навыки
 - **Frontend**: HTML, CSS, JavaScript, React
@@ -20,14 +22,15 @@
 
 ## 📫 Как со мной связаться
 - Email: [damirfrontend.dev@gmail.com](mailto:damirfrontend.dev@gmail.com)
-- Telegram: [fe_kis](https://t.me/fe_kis)
+- Telegram: [fek1ss](https://t.me/fek1ss)
 
 🔭 Могу помочь с фронтенд-разработкой, созданием адаптивных интерфейсов и улучшением пользовательского опыта. Всегда открыт к новым возможностям и вызовам!
 
 -------------------------
+ Hi, I'm Damir! 
 
-# Hi there 👋  
-I am a frontend developer with experience in HTML, CSS, JavaScript, and React. Currently, I am learning and developing my professional skills, and I am looking for new projects to improve my expertise.
+I am a frontend developer who creates responsive interfaces and works with React.  
+I strive to improve the user experience and constantly learn new technologies.
 
 ## 🛠 My Skills  
 - **Frontend**: HTML, CSS, JavaScript, React  
@@ -46,7 +49,7 @@ I am a frontend developer with experience in HTML, CSS, JavaScript, and React. C
 
 ## 📫 How to Contact Me  
 - **Email**: [damirfrontend.dev@gmail.com](mailto:damirfrontend.dev@gmail.com)
-- **Telegram**: [fe_kis](https://t.me/fe_kis) 
+- **Telegram**: [fek1ss](https://t.me/fek1ss) 
 
 ## 🔭 I can help with frontend development, creating responsive interfaces, and improving user experience. Always open to new opportunities and challenges!  
 
