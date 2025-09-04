@@ -18,7 +18,7 @@
 - Разработка бэкенда (Python, Flask)
 
 ## 💼 Мои проекты
- **[Anime Search Application](https://anime-search-seven.vercel.app/)**: Приложение для поиска аниме с использованием внешнего API.
+ **[Портфолио](https://portfolio-damir.vercel.app/)**
 
 ## 📫 Как со мной связаться
 - Email: [damirfrontend.dev@gmail.com](mailto:damirfrontend.dev@gmail.com)
@@ -45,7 +45,7 @@ I strive to improve the user experience and constantly learn new technologies.
 - Backend development (Python, Flask)
 
 ## 💼 My Projects  
-**[Anime search app](https://anime-search-seven.vercel.app/)**: An application for finding anime using an external API.
+ **[Portfolio](https://portfolio-damir.vercel.app/)**
 
 ## 📫 How to Contact Me  
 - **Email**: [damirfrontend.dev@gmail.com](mailto:damirfrontend.dev@gmail.com)
