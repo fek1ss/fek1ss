@@ -17,8 +17,7 @@
 - Расширенные возможности React и состояния (Redux, Context API)
 - Разработка бэкенда (Python, Flask)
 
-## 💼 Мои проекты
- **[Портфолио](https://portfolio-damir.vercel.app/)**
+
 
 ## 📫 Как со мной связаться
 - Email: [damirfrontend.dev@gmail.com](mailto:damirfrontend.dev@gmail.com)
@@ -44,8 +43,7 @@ I strive to improve the user experience and constantly learn new technologies.
 - Advanced React features and state management (Redux, Context API)  
 - Backend development (Python, Flask)
 
-## 💼 My Projects  
- **[Portfolio](https://portfolio-damir.vercel.app/)**
+
 
 ## 📫 How to Contact Me  
 - **Email**: [damirfrontend.dev@gmail.com](mailto:damirfrontend.dev@gmail.com)
