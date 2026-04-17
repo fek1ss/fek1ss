@@ -6,9 +6,9 @@
 🚀 Открыт к новым возможностям!  
 
 ## 🛠 Мои навыки
-- **Frontend**: HTML, CSS, JavaScript, React
+- **Frontend**: HTML, CSS, JavaScript, React, NextJS
 - **Инструменты**: Git, GitHub, VSCode, Webpack, Vite
-- **Базы данных**: Firestore
+- **Базы данных**: Firestore, Supabase
 - **API**: Работа с внешними API
 - **Дизайн**: Адаптивный дизайн
 
@@ -32,9 +32,9 @@ I am a frontend developer who creates responsive interfaces and works with React
 I strive to improve the user experience and constantly learn new technologies.
 
 ## 🛠 My Skills  
-- **Frontend**: HTML, CSS, JavaScript, React  
+- **Frontend**: HTML, CSS, JavaScript, React, NextJS  
 - **Tools**: Git, GitHub, VSCode, Webpack  
-- **Databases**: Firestore  
+- **Databases**: Firestore, Supabase
 - **API**: Working with external APIs, RESTful services  
 - **Design**: Responsive design  
 
